@@ -10,9 +10,9 @@ salary information of H1B jobs.
 
 Business Objective: Check, in TDI_CapstoneProject_Final
 </br>
-Data Ingestion: Check, have checked the geo information of the dataset and academia vs industry in every state, in TDI_CapstoneProject_Final
+Data Ingestion: Check, have checked the geo information of the dataset and academia vs industry in every state, in TDI_CapstonProject_Yuchen
 </br>
 Visualization: Check, Bar Char and Violin Plot in Capstone_Visualization
 </br>
 Machine Learning: Check, one method is regression, the other method is XGBOOST TREE in 
-TDI_CapstoneProject_Final
+TDI_CapstoneProject_Final and TDI_CapstonProject_Yuchen
