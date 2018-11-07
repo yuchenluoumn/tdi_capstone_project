@@ -11,6 +11,8 @@ salary information of H1B jobs.
 Business Objective: Check
 </br>
 Data Ingestion: Check, have checked the geo information of the dataset and academia vs industry in every state
+</br>
 Visualization: Check, Bar Char and Violin Plot
+</br>
 Machine Learning: Check, one method is regression, the other method is XGBOOST TREE
 
