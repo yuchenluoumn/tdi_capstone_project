@@ -1,4 +1,8 @@
 # tdi_capstone_project
+See TDI_CapstoneProject_uptodate.ipynb for more details.
+
+
+Supplementary materials if I have not put in the TDI_CapstoneProject_uptodate.ipynb
 In the TDI_CapstoneProject_Final notebook contains the structure of the capstone project.
 And it is listed the hit points of the requirements.
 
